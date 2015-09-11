@@ -1,5 +1,7 @@
 # Champagne BLB Classic-R
 
+![Champagne BLB Classic-R](https://raw.githubusercontent.com/masone/build-a-bike/master/bikes/chris-classic-champagne.jpg)
+
 ## Components
 
 Part | Size/Variant| Color
