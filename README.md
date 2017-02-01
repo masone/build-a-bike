@@ -40,7 +40,7 @@ When buying parts, ask the supplier if everything fits together. They're usually
 * You either have a threaded or unthreaded fork. They require different types of [headsets](http://www.sheldonbrown.com/gloss_ha-i.html#headset).
 * Also watch out for the diameter of the headset.
 * The stem defines the diameter of the handlebars.
-* The handlebars might have a larger diameter in the middle than where you install the brake levers. So have an eye on the brake level diameter as well.
+* The handlebars might have a larger diameter in the middle than where you install the brake levers. So have an eye on the brake lever diameter as well.
 
 
 ### Brake lever, brakes, brake cable
@@ -61,7 +61,7 @@ When buying parts, ask the supplier if everything fits together. They're usually
 ### Misc
 
 * The frame specs define a certain seat post diameter.
-* Your frame might or might not have guides to install the cables. You might want to get cable clamps if not.
+* Your frame might or might not have guides to install the cables. You can get cable clamps if not.
 
 
 

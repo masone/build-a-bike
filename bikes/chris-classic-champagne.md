@@ -6,7 +6,7 @@
 
 Part | Size/Variant| Color
 -----|-------------|-------
-BLB Classic-R Frameset | Size 56 | Champagne
+BLB Classic-R Track Frameset | Size 56 | Champagne
 Tange Seiki Threaded Headset | 1" | Silver
 BLB Lil Quill Stem | 60mm | Silver
 Zoom Bullhorn Bar | 400 mm, ø 25.4mm |
