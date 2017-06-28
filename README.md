@@ -1,8 +1,8 @@
-# How to build a bike
+# Build a custom bike
 
-If you're a bicycle fanatic, the thought of building your own bike has crossed your mind for sure. It's very rewarding, fun and not as hard as you might think.
+One summer, I decided to build my own single speeder. 
 
-Below is what I have learned in the course of building my bike. And a few things I wish I knew before. It focusses on fixies / single speeders.
+It was a very rewarding experience and not as hard as you might think. Below is what I have learned in the course of building my bike. And a few things I wish I knew before. It focusses on fixies / single speeders.
 
 My main resource was [Sheldon Browns bike bible](http://www.sheldonbrown.com/) (and Youtube).
 
@@ -97,17 +97,38 @@ Another thing you'll likely need a [tool](https://www.google.ch/search?q=bottom+
 Everything else is pretty straight forward and does not require special tools.
 
 
-## Custom builds gallery
+## Shopping list
 
-I documented all the parts used for my build. Have a look at the bikes folder and feel free to contribute details on your own build.
+Here are the components needed to build a bike like mine:
+
+Part | Size/Variant| Color
+-----|-------------|-------
+BLB Classic-R Track Frameset | Size 56 | Champagne
+Tange Seiki Threaded Headset | 1" | Silver
+BLB Lil Quill Stem | 60mm | Silver
+Zoom Bullhorn Bar | 400 mm, ø 25.4mm |
+Brooks Cambium Bar Tape Cotton Handlebar Tape |  | slate
+Promax Retro B-Lever Brakelever | ø 23,8mm | Silver
+FS-Track Brakes Type-B (Caliper) | | Silver
+Brake Cable Set Rear | | Black
+Brake Cable Set Front | 17 Teeth | Black
+Tektro - Cable Clamps | ø 28.6mm |
+BLB Seatpost | 27,2mm | Silver
+Brooks Cambium C17 Natural Rubber Saddle | | slate
+Miche Primato Bottom Bracket (BSA) | Length: 110mm |
+FSA F. Gimondi Crankset | 48 Teeth, Crank length: 170 mm |
+FS-Track Urban Pedal | | Silver
+BLB Superior Freewheel | 3/32" |
+Taya Kette OCTO | 3/32" |
+Miche Primato Pista Small Flanges Hub Front | 36 Holes |
+Miche Primato Pista Small Flanges Hub Rear Fixed | 36 Holes |
+H+Son TB14 Rims | | 36 Spokes | Hard Ano Grey
+Michelin Dynamic Classic Wire Bead Tires | 23-622 |
+Schwalbe Tubes 15 | Presta, SV15, 40mm |
 
 
-# Contributing
+### Suppliers
 
-Contributions to this guide are welcome. Feel free to add details on your custom build in the bikes folder or to improve this guide.
-
-1. Fork it ( http://github.com/masone/twofishes/fork )
-2. Create your feature branch (git checkout -b my-new-feature)
-3. Commit your changes (git commit -am 'Add some feature')
-4. Push to the branch (git push origin my-new-feature)
-5. Create new Pull Request
+* [fixieshop.ch](http://fixieshop.ch)
+* [bike24.de](http://bike24.de)
+* [goldsprint.de](http://goldsprint.de)
