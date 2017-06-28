@@ -1,6 +1,8 @@
 # Build a custom bike
 
-One summer, I decided to build my own single speeder. 
+One summer, I decided to build my own single speeder.
+
+![](velo-love.jpg?raw=true)
 
 It was a very rewarding experience and not as hard as you might think. Below is what I have learned in the course of building my bike. And a few things I wish I knew before. It focusses on fixies / single speeders.
 
